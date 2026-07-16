@@ -5,6 +5,19 @@
 > **Personal Operating System for AI-Assisted Development**  
 > **AI와 함께 성장하는 개인 운영체제**
 
+> **Status:** REFERENCE
+>
+> **Role:** Public concept, philosophy, and portfolio overview
+>
+> **Operational canonical source:** private Personal OS HQ (not publicly accessible; intentionally not linked here)
+>
+> This repository documents the philosophy and the **planned** structure of Forblune OS.
+> The operational, day-to-day canonical documents live in a separate private repository.
+>
+> **상태: REFERENCE(참조용)** — 이 저장소는 Forblune OS의 공개 개념·철학·포트폴리오 소개 문서입니다.
+> 실제 운영에 쓰이는 정본(canonical) 문서는 별도의 private Personal OS HQ 저장소에 있으며,
+> 공개적으로 접근할 수 없으므로 의도적으로 링크하지 않습니다.
+
 ---
 
 # 🚀 What is Forblune OS? (Forblune OS란?)
@@ -125,6 +138,18 @@ Knowledge
 ---
 
 # 📁 Repository Structure (저장소 구조)
+
+> **Planned structure — not yet implemented (계획된 구조 — 아직 구현되지 않음)**
+>
+> The tree below is the **target** layout for future versions (roadmap v0.2+).
+> **Currently implemented:** `README.md` (this document) is the only file with real content.
+> `START.md` and `DEVELOPMENT_CYCLE.md` contain only a placeholder notice (no real
+> content yet), and none of the directories below have been created.
+>
+> 아래 트리는 로드맵 v0.2 이후를 위한 **목표** 구조입니다.
+> **현재 실제 내용이 있는 파일은 `README.md` 하나뿐이며**, `START.md`와
+> `DEVELOPMENT_CYCLE.md`에는 placeholder 안내문만 있고(실제 내용은 아직 없음),
+> 아래 디렉터리들은 아직 만들어지지 않았습니다.
 
 ```text
 forblune-os/
@@ -284,15 +309,16 @@ Autonomous Development System
 
 If you are an AI assistant, read the following documents in order:
 
-1. README.md
-2. START.md
-3. DEVELOPMENT_CYCLE.md
-4. principles/
-5. workflows/
-6. skills/
-7. templates/
+1. README.md — implemented (this document)
+2. START.md — placeholder, not yet written (placeholder, 아직 작성되지 않음)
+3. DEVELOPMENT_CYCLE.md — placeholder, not yet written (placeholder, 아직 작성되지 않음)
+4. principles/ — planned, does not exist yet (계획 단계, 아직 없음)
+5. workflows/ — planned, does not exist yet (계획 단계, 아직 없음)
+6. skills/ — planned, does not exist yet (계획 단계, 아직 없음)
+7. templates/ — planned, does not exist yet (계획 단계, 아직 없음)
 
 AI는 위 순서대로 문서를 읽고 프로젝트를 이해합니다.
+(현재 시점에는 README.md만 실제 내용이 있습니다.)
 
 If a document is updated,
 the related documents should also be reviewed.
@@ -301,10 +327,10 @@ the related documents should also be reviewed.
 관련 문서도 함께 검토한다.
 
 This document provides the overall philosophy.
-START.md explains how to begin each project.
+START.md will explain how to begin each project once it is written.
 
 README는 전체 철학을 설명합니다.
-START.md는 프로젝트를 시작하는 방법을 설명합니다.
+START.md는 작성이 완료되면 프로젝트를 시작하는 방법을 설명할 예정입니다.
 
 ---
 
