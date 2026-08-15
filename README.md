@@ -1,18 +1,20 @@
 # Forblune OS
 
-Forblune OS is a public note about how I carry useful decisions from one project into the next. It is not a downloadable operating system, a live agent platform, or a finished product.
+**Status:** reference only  
+**Role:** public concept and working-principles overview  
+**Operational canonical source:** private Personal OS HQ
 
-## Current state
+Forblune OS is a public note about how I want to carry useful decisions from one project into the next. It is not a downloadable operating system, a live agent platform, or a finished product.
 
-This repository currently contains three documents:
+## Current public contents
 
-- [`START.md`](./START.md): a short entry point for recording a project
-- [`DEVELOPMENT_CYCLE.md`](./DEVELOPMENT_CYCLE.md): the build and review cycle
-- [`README.md`](./README.md): scope and working rules
+- [`README.md`](./README.md): the only implemented reference document
+- [`START.md`](./START.md): a clearly labelled placeholder, not an implemented start guide
+- [`DEVELOPMENT_CYCLE.md`](./DEVELOPMENT_CYCLE.md): a clearly labelled placeholder, not an implemented standard workflow
 
-No runtime, database, background agent, or automated approval system is included here. Operational material and private project data live outside this public repository.
+No runtime, database, background agent, approval system, or production automation is included here. Operational documents and private project data live outside this public repository.
 
-## The working loop
+## The proposed working loop
 
 ```text
 Problem
@@ -24,9 +26,9 @@ Problem
   → reusable note or checklist
 ```
 
-The point is practical: a project should leave behind something that makes the next similar job easier to execute or easier to verify.
+This loop is a principle, not evidence of an implemented platform. The practical aim is for a completed project to leave behind something that makes the next similar job easier to execute or easier to verify.
 
-Examples include:
+Possible outputs include:
 
 - a reproduction checklist for a responsive bug
 - a tested content pattern for Korean and English pages
@@ -44,6 +46,6 @@ Examples include:
 
 ## Why this is public
 
-The public version shows the method without exposing the private Company OS, client material, or automation details. It is useful as a reference for collaborators who want to understand how Forblune scopes, verifies, and hands off work.
+The public version explains the direction without exposing the private Company OS, client material, or operational automation. It is a reference for collaborators who want to understand how Forblune scopes, verifies, and hands off work.
 
 For customer-facing work, see [portfolio.forblune.com](https://portfolio.forblune.com) and [webcare.forblune.com](https://webcare.forblune.com).
